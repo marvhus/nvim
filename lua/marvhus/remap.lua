@@ -10,5 +10,4 @@ nnoremap("<leader>d", "<C-W>l")
 nnoremap("<leader>vs", "<cmd>vsplit<CR>")
 nnoremap("<leader>hs", "<cmd>split<CR>")
 
-nnoremap("<leader>q", "<cmd>q<CR>")
-nnoremap("<leader>w", "<cmd>w<CR>")
+

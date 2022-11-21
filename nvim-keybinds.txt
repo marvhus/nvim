@@ -1,0 +1,18 @@
+Leader = " "
+### Lsp
+<Leader>h -- lsp hover info
+<Leader>i -- lsp jump to definition
+<Leader>r -- lsp rename
+### Telescope
+<Leader>n -- file browser
+<Leader>f -- find file
+<Leader>t -- treesitter
+### Other
+<Leader>c -- comment
+<Leader>x -- toggle more error stuff
+### Custom
+<Leader>e -- :Ex  (file brower)
+<Leader>w -- <C-W>k select split above
+<Leader>a -- <C-W>h select split left
+<Leader>s -- <C-W>j select split bellow
+<Leader>d -- <C-W>l select split right
