@@ -16,3 +16,5 @@ Leader = " "
 <Leader>a -- <C-W>h select split left
 <Leader>s -- <C-W>j select split bellow
 <Leader>d -- <C-W>l select split right
+<A-t> ------ Toggle terminal
+<Esc> ------ Go back to normal mode
